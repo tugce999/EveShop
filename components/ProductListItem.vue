@@ -6,14 +6,14 @@
       
       <div class="d-flex pt-5"> 
         <v-spacer></v-spacer>
-        <v-img :src="product.Url" height="200" width="200"> </v-img>
+        <v-img src="/eveslider/maskara.png" height="200" width="200"> </v-img>
         <v-spacer></v-spacer>
       </div>
 
     <v-card-title>{{product.name}}</v-card-title>
     <v-card-text class="mt-15">
         <div>
-        <span class="my-4 text-subtitle-1">Fiyat:</span>
+        <span class="my-4 text-subtitle-1">Fiyat: 149.95</span>
         <span class="font-weight-bold"> {{product.GuestPrice}}</span>
       </div>
       <div>
