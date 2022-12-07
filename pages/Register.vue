@@ -1,5 +1,5 @@
 <template>
     <p>
-        merhaba2
+        Hello GitHub I'm here
     </p>
 </template>
